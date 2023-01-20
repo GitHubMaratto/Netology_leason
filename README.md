@@ -9,4 +9,6 @@
 >Низкая цена
 Логотип:
 
-![Вставил картинку](/images/ImageFromNetologyLeason.png)
+![Вставил картинку](C:/Users/Marat/Documents/GitHub/Images/ImageFromNetologyLeason.png)
+
+<image src="C:/Users/Marat/Documents/GitHub/Images/ImageFromNetologyLeason.png" alt="Текст с описанием картинки">
