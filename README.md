@@ -13,4 +13,4 @@
 
 <image src="C:/Users/Marat/Documents/GitHub/Images/ImageFromNetologyLeason.png" alt="Текст с описанием картинки">
 
-![Текст с описанием картинки](https://ibb.co/m5mj5DB)
+![Текст с описанием картинки](https://i.ibb.co/v4bF4wB/Image-From-Netology-Leason.png)
