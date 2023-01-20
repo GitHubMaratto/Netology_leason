@@ -12,5 +12,3 @@
 
 
 ![Текст с описанием картинки](https://i.ibb.co/v4bF4wB/Image-From-Netology-Leason.png)
-
-> for Discription
